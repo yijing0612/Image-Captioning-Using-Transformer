@@ -2,6 +2,8 @@
 
 Author: Lim Yi Jing, Chiam Yu Wei, Cheng Hung Xu, Lee Jean Sean
 
+This is a project developed in undergraduate Year 3 - Semester 1
+
 This repository is about an implementation of image captioning using the Transformer Model.
 
 In this project, we are going to build an image captioning model using Transformer 
