@@ -1,4 +1,4 @@
-# Y3S1_Image_Captioning_Using_Transformer
+Image_Captioning_Using_CNN+Transformer
 
 This is a project developed in undergraduate Year 3 - Semester 1
 
